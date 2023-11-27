@@ -18,11 +18,11 @@ export function Home() {
           <Button
             as="a"
             color="white"
-            href="https://gamba.so"
+            href="https://twitter.com/CoinSolama54357"
             target="_blank"
             icon={<Icon.ExternalLink />}
           >
-            Learn more
+            Visit our Twitter
           </Button>
         </div>
       </Section>
