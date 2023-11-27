@@ -9,10 +9,10 @@ export function Home() {
     <div className={styles.banner}>
       <Section>
         <h2>
-          What is this?
+          What is $HARY?
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
-          An open source, decentralized casino built on Gamba. Copy this platform with your own branding and start earning fees on every bet.
+          Welcome to $HARY’s casino, hop off the hamster wheel and jump into a Lambo with me! Future developments and updates coming soon. 
         </p>
         <div style={{ display: 'flex', gap: '10px' }}>
           <Button
